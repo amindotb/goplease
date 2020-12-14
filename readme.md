@@ -4,7 +4,7 @@ Here we document the library soon.
 
 Warm Up
 
-Why should I use validplease?
+Why should I use GoPlease?
 
     Multilanguage. (EN, FA)
     Zero dependency.
