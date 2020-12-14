@@ -1,4 +1,4 @@
-A Strong **GOlang** module for input validation with on multiple language messages. Keep your eyes on new changes.
+A Strong **GOlang** module for input validation with multiple language messages. Keep your eyes on new changes.
 
 Here we document the library soon.
 
